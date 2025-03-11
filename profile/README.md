@@ -6,7 +6,7 @@
 <p align="center">
 <img src="https://img.shields.io/badge/version-0.1.0-orange.svg?cacheSeconds=2592000" />
 <a href="https://www.instagram.com/boong_ma" target="_blank"><img src="https://img.shields.io/badge/-instagram-pink?style=square&logo=instagram&logoColor=white" /></a>
-  <a href="https://slashpage.com/bungmakase" target="_blank"><img src="https://img.shields.io/badge/-introduction-orange?style=square&logo=slashdot&logoColor=white" /></a>
+  <a href="https://slashpage.com/bungmakase" target="_blank"><img src="https://img.shields.io/badge/-introduction-FBA518?style=square&logo=slashdot&logoColor=white" /></a>
 </p>
 
 ## 🍞 Project Introduction
