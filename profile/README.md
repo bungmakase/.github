@@ -28,7 +28,7 @@
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |  <img style="width: 130px;" src="https://github.com/user-attachments/assets/b414cab9-9b3f-4c9d-b16a-52830fcfc49b" />  |  <img style="width: 130px;" src="https://github.com/user-attachments/assets/21006f20-3937-4908-9240-e053c0128fb1" />  |  <img style="width: 130px;" src="https://github.com/user-attachments/assets/1089bb2d-5b8c-4295-a35f-5a301b7e393c" />  |  <img style="width: 130px;" src="https://github.com/user-attachments/assets/ea136409-cf5f-4053-982b-6296662ecd52" />  | <img style="width: 130px;" src="https://github.com/user-attachments/assets/e63bda9b-4237-4fca-8e26-f2a4f58c2c37" /> | <img style="width: 130px;" src="https://github.com/user-attachments/assets/29c1886d-66a8-4955-81da-3c1a5cd6e4e3" /> |
 |김다영|윤현|김소현|김성진|정도은|한승원|
-|   [@allzer0o0](https://github.com/allzer0o0)   |   [@Yoonhyun]()   |   [@5o-hyun](https://github.com/5o-hyun)   |   [@muffin9](https://github.com/muffin9)   |   [@jdoeun](https://github.com/jdoeun)    |  [@InimitablePioneer](https://github.com/InimitablePioneer)     |
+|   [@allzer0o0](https://www.linkedin.com/in/allzer0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)   |   [@Yoonhyun]()   |   [@5o-hyun](https://github.com/5o-hyun)   |   [@muffin9](https://github.com/muffin9)   |   [@jdoeun](https://github.com/jdoeun)    |  [@InimitablePioneer](https://github.com/InimitablePioneer)     |
 
 
 
